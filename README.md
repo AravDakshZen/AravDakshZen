@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aravindakshan.rr.2025.cse@rajalakshmi.edu.in**
 
-- ⚡ Fun fact **Creating Bugs Since 2025!**
+- **Creating Bugs Since 2025!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
