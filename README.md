@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aravindakshan R R</h1>
 <h3 align="center">A passionate frontend developer from TamilNadu, India.</h3>
 
-- 🔭 I’m currently working on **ClassScheduler**
+- 🔭 I’m currently working on **Jeskii**
 
 - 🌱 I’m currently learning **Typescript, Tailwind and React.js**
 
