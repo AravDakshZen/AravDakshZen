@@ -1,25 +1,29 @@
-<h1 align="center">Hi 👋, I'm Aravindakshan R R</h1>
-<h3 align="center">A passionate frontend developer from TamilNadu, India.</h3>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-room?username=aravdakshzen&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/pixel-room?username=aravdakshzen&mode=dark&v=2026-11-11" width="100%" alt="Aravindakshan R R's pixel studio" />
+</picture>
 
-- 🔭 I’m currently working on **Jeskii**
+<a href="https://github.com/aravdakshzen">GitHub</a> · <a href="https://aravindakshanrr.vercel.app/homepage">Website</a>
 
-- 🌱 I’m currently learning **Typescript, Tailwind and React.js**
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/studio-about?username=aravdakshzen&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/studio-about?username=aravdakshzen&mode=dark&v=2026-11-11" width="100%" alt="About Aravindakshan R R: Creating bugs since 2025!" />
+</picture>
 
-- 👨‍💻 All of my projects are available at [https://aravsportfolio.vercel.app/homepage](https://aravsportfolio.vercel.app/homepage)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-hud?username=aravdakshzen&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/pixel-hud?username=aravdakshzen&mode=dark&v=2026-11-11" width="100%" alt="Commits, pull requests, stars and best streak" />
+</picture>
 
-- 📫 How to reach me **aravindakshan.rr.2025.cse@rajalakshmi.edu.in**
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-header?username=aravdakshzen&title=%3E+Projects&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/pixel-header?username=aravdakshzen&title=%3E+Projects&mode=dark&v=2026-11-11" width="100%" alt="Projects" />
+</picture>
 
-- **Creating Bugs Since 2025!**
+<a href="https://github.com/AravDakshZen/CampusConnect"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-card?username=aravdakshzen&i=0&r=CampusConnect&mode=light&v=2026-11-11" /><img src="https://www.gitskins.com/api/section/pixel-card?username=aravdakshzen&i=0&r=CampusConnect&mode=dark&v=2026-11-11" width="49%" alt="CampusConnect: " /></picture></a> <a href="https://github.com/AravDakshZen/CampusGenie"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-card?username=aravdakshzen&i=1&r=CampusGenie&mode=light&v=2026-11-11" /><img src="https://www.gitskins.com/api/section/pixel-card?username=aravdakshzen&i=1&r=CampusGenie&mode=dark&v=2026-11-11" width="49%" alt="CampusGenie: " /></picture></a>
+<a href="https://github.com/AravDakshZen/github-badges"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-card?username=aravdakshzen&i=2&r=github-badges&mode=light&v=2026-11-11" /><img src="https://www.gitskins.com/api/section/pixel-card?username=aravdakshzen&i=2&r=github-badges&mode=dark&v=2026-11-11" width="49%" alt="github-badges: github-badges provides a complete guide to acquire every badges in github. GitHub badges provide a quick and visually appealing way to showcase important information about a project, such as repository statistics, build status, version numbers, license details, technology stack, and community activity. " /></picture></a> <a href="https://github.com/AravDakshZen/READMEify"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-card?username=aravdakshzen&i=3&r=READMEify&mode=light&v=2026-11-11" /><img src="https://www.gitskins.com/api/section/pixel-card?username=aravdakshzen&i=3&r=READMEify&mode=dark&v=2026-11-11" width="49%" alt="READMEify: AI-powered README generator for developers. Paste your GitHub URL or describe your project and get a structured, professional README.md with badges, feature lists, and setup instructions in seconds." /></picture></a>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thelostwar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aravindakshan-rr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodeCelest) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aravdaksh.zen@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AravDakshZen&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AravDakshZen&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AravDakshZen&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/studio-log?username=aravdakshzen&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/studio-log?username=aravdakshzen&mode=dark&v=2026-11-11" width="100%" alt="The last 26 weeks of contributions, the streak and the year" />
+</picture>
